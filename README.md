@@ -1,7 +1,9 @@
-## 👋 Hi there, I'm dupyeong
+## 🌠 Hi there, I'm dupyeong
 
 ### 🌱 currently learning
 
+- Node.js
+- Agile
 
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pangcurry)](https://github.com/anuraghazra/github-readme-stats)
